@@ -4,6 +4,8 @@
 This project implements a handwritten letter classifier using the **least squares method** and **QR decomposition** on the **EMNIST Letters** dataset. Two QR approaches are explored:
 1. **Householder transformations** for full QR decomposition
 2. **Incremental QR updating** using **Givens rotations**
+   
+Course project for **Linear Algebra Applications in Data Mining**.
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
